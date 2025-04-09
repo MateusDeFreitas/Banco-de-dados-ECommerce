@@ -1,4 +1,4 @@
-# Banco-de-dados-imobiliaria
+# Banco-de-dados-ECommerce
 
 Este projeto consiste na criação de um **banco de dados completo e relacional** desenvolvido para atender as necessidades de um sistema de **e-commerce**. Ele foi projetado para **organizar, cruzar e prover dados estratégicos** relacionados a clientes, produtos, categorias, pedidos, vendedores, fornecedores e muito mais.
 
